@@ -1,7 +1,6 @@
-<keymap version="1" name="kshell" parent="Default for GNOME">
+<keymap version="1" name="kshell" parent="$default">
   <action id="CodeCompletion">
     <keyboard-shortcut first-keystroke="alt slash" />
   </action>
   <action id="HippieCompletion" />
-  <action id="SmartTypeCompletion" />
 </keymap>
