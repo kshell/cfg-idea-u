@@ -21,6 +21,7 @@ Subversion
 Tomcat
 WebSphere
 Weblogic
+com.intellij.CloudConfig
 com.intellij.appengine
 com.intellij.dmserver
 com.intellij.drools
