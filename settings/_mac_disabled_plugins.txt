@@ -1,13 +1,11 @@
 AngularJS
 AntSupport
-CloudBees
 CloudFoundry
 DevKit
 Emma
 Geronimo
 GlassFish
 Heroku
-J2ME
 JBoss
 JSR45Plugin
 Java EE: Web Services (JAX-WS)
@@ -16,7 +14,6 @@ OpenShift
 Osmorc
 PerforceDirectPlugin
 Resin
-StrutsAssistant
 Subversion
 Tomcat
 WebSphere
