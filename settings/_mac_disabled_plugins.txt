@@ -10,6 +10,7 @@ JBoss
 JSR45Plugin
 Java EE: Web Services (JAX-WS)
 Jetty
+LESS CSS Compiler
 OpenShift
 Osmorc
 PerforceDirectPlugin
